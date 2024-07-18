@@ -11,7 +11,7 @@
          "waifu bot",
          "husbando"
       ],   
-   "repository": "https://github.com/tinaarobot/WAIFU",
+   "repository": "https://github.com/BakiHanma0001/WAIFU",
    "stack": "heroku-24",
    "addons": [
       {
@@ -31,28 +31,28 @@
       "LOGGER_ID": {
          "description": " Support Group's ID And Please Add ur Bot in That group.. with administrator rights",
          "required": true,
-         "value": "-1001929735324"
+         "value": "-1002237562181"
       },
       "SUDO_USERS": {
          "description": "Set your best friends id as sudo.",
          "required": true,
-         "value": "6922271843" 
+         "value": "7041160940" 
       },
       "BOT_USERNAME": {
          "description": "Enter your bot username.",
          "required": true,
-         "value": "Nykaa_Anime_Bot" 
+         "value": "SatanXrobo_bot" 
       },
       "SUPPORT_CHAT": {
          "description": "your bots support chat name without @ or chat id.",
          "required": true,
-         "value": "THE_FRIENDZ" 
+         "value": "Satan_Fucker" 
       },
       
       "OWNER_ID": {
          "description": "Id of bot owner",
          "required": true,
-         "value": "6922271843" 
+         "value": "7041160940" 
       },
      "MONGO_URL": {
          "description": "Add a Mongodb url to store data",
@@ -67,23 +67,23 @@
       "UPDATE_CHAT": {
          "description": "Update Channel Username Without @",
          "required": true,
-         "value": "Nykaa_Update" 
+         "value": "Sharped_Hunters" 
      },
       
       "API_ID": {
          "description": "Your Api id... Don't know what is this.. then searchon Google",
          "required": true,
-         "value": "6435225" 
+         "value": "" 
       },
       "CHANNEL_ID": {
          "description": "Your Channel Id.. Where bot will Send.. all Ur Uploaded characters with details",
          "required": true,
-         "value": "-1001852000392" 
+         "value": "-1002237562181" 
       },
       "API_HASH": {
          "description": "Your Api HASH... Don't know what is this.. then searchon Google",
          "required": true,
-         "value": "4e984ea35f854762dcde906dce426c2d" 
+         "value": "" 
        }
     }    
 }
