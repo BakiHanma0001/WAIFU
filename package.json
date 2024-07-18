@@ -1,0 +1,12 @@
+{
+  "name": "WAIFU",
+  "version": "1.0.0",
+  "description": "A simple application to demonstrate npm usage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node", "npm", "example"],
+  "author": "Anupam",
+  "license": "MIT"
+}
