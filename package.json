@@ -10,3 +10,6 @@
   "author": "Anupam",
   "license": "MIT"
 }
+mkdir /opt/render/project/src     # Create your project directory if it doesn't exist
+cd /opt/render/project/src        # Navigate into your project directory
+npm init                          # Initialize a new package.json file
